@@ -43,10 +43,10 @@ class TwitterStreamer():
     
 
 
-consumer_key = 'S1yjoVXjfpMwSHsEJZefQAL4J'
-consumer_secret = 'JYjUbXqAHTwKBM3YivElhRLSNSvZYhw136893eRu698prD3WZd'
-access_token = '973086578019979265-WnbNqwPt7Te7V9b2FuRgD9rnDY123yv'
-access_secret = '1reLeMjzqCcvkaHs6fHL0i0ObhyOEjCxFimgMI1zYAlQK'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_secret = ''
 
 if __name__ == '__main__':
     hash_tag_list = []
